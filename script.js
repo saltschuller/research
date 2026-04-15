@@ -70,17 +70,17 @@ for (let i = 0; i < partnerMessages.length; i++) {
 
 }
 
-partner {
-  background-color: #e6e6e6;
-  padding: 10px;
-  border-radius: 10px;
-  margin-bottom: 10px;
-  text-align: left;
-}
+//.partner {
+//  background-color: #e6e6e6;
+//  padding: 10px;
+//  border-radius: 10px;
+//  margin-bottom: 10px;
+ // text-align: left;
+//}
 
-.jspsych-survey-text textarea {
-  width: 100%;
-}
+//.jspsych-survey-text textarea {
+//  width: 100%;
+//}
 
 
 
