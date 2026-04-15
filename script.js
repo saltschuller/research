@@ -70,7 +70,7 @@ for (let i = 0; i < partnerMessages.length; i++) {
 
 }
 
-.partner {
+partner {
   background-color: #e6e6e6;
   padding: 10px;
   border-radius: 10px;
